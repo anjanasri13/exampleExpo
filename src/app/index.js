@@ -51,6 +51,5 @@ const styles = StyleSheet.create({
     // justifyContent: 'center',
     // backgroundColor: '#ecf0f1',
     backgroundColor: colors.darkBlue,
-    // padding: 8,
   },
 });
